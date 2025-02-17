@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}Wall Street Week}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Listen Part}{3}{}%
+\contentsline {section}{\numberline {2}TED}{3}{}%
+\contentsline {section}{\numberline {3}Daily Accumulation}{3}{}%
+\contentsline {subsection}{\numberline {3.1}unhealthy}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Kitchen}{3}{}%
+\contentsline {subsection}{\numberline {3.3}Daily}{4}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Economics}{4}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}Daily}{4}{}%
+\contentsline {subsubsection}{\numberline {3.3.3}Fruit}{4}{}%
+\contentsline {subsubsection}{\numberline {3.3.4}shoes}{5}{}%
+\contentsline {subsubsection}{\numberline {3.3.5}clothes}{5}{}%
+\contentsline {subsubsection}{\numberline {3.3.6}makeups}{5}{}%
+\contentsline {subsubsection}{\numberline {3.3.7}seafood}{5}{}%
+\contentsline {subsubsection}{\numberline {3.3.8}food}{6}{}%
+\contentsline {subsubsection}{\numberline {3.3.9}signs}{6}{}%
+\contentsline {subsubsection}{\numberline {3.3.10}vatemins and minerals}{6}{}%
+\contentsline {section}{\numberline {4}Vocabrary}{7}{}%
+\contentsline {section}{\numberline {5}Idiom}{13}{}%
+\contentsline {section}{\numberline {6}GRE}{13}{}%
+\contentsline {section}{\numberline {7}CNN}{13}{}%
+\contentsline {section}{\numberline {8}paragraph}{14}{}%
+\contentsline {section}{\numberline {9}Passage}{15}{}%
+\contentsline {subsection}{\numberline {9.1}Estate Fights Can Tear Stepfamilies Apart. Here's How to Avoid the Brawl}{15}{}%
+\contentsline {subsection}{\numberline {9.2}Europe's politicians have no easy options for dealing with Chinese electric vehicles.}{17}{}%
+\contentsline {subsection}{\numberline {9.3}China's crop}{20}{}%
+\contentsline {subsection}{\numberline {9.4}June 21 (Reuters) - A look at the day ahead in Asian markets.}{24}{}%
+\contentsline {subsection}{\numberline {9.5}Flight}{26}{}%
+\contentsline {subsection}{\numberline {9.6}Econimics}{29}{}%
+\contentsline {subsection}{\numberline {9.7}June 12 (Reuters) - A look at the day ahead in Asian markets.}{36}{}%
+\contentsline {subsection}{\numberline {9.8}Investors will obsess Wednesday over whether Federal Reserve officials pencil in one or two interest rate cuts this year.}{38}{}%
+\contentsline {subsection}{\numberline {9.9}Currency policy}{43}{}%
+\contentsline {section}{\numberline {10}Measurement}{45}{}%
